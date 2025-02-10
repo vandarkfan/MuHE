@@ -1,4 +1,4 @@
-﻿﻿﻿﻿<h1 align="center">
+﻿﻿﻿﻿﻿<h1 align="center">
   MuHE
 </h1>
 
@@ -50,5 +50,5 @@ python main-FB-AUTO.py               ## (M-H) FB-AUTO dataset
 
 We support flexible setting of hyperparameters that affect the training performance of MuHE models: **batch_size、 learning rate and decay rate**.
 
-It is worth mentioning that **emb_ropout, vis_ropout, and txt_dropout** are also hyperparameters that affect the final performance of the model. We have provided default parameters in the corresponding Python files for the three datasets.
+It is worth mentioning that **emb_dropout, vis_dropout, and txt_dropout** are also hyperparameters that affect the final performance of the model. We have provided default parameters in the corresponding Python files for the three datasets.
 

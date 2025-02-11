@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿<h1 align="center">
+﻿﻿﻿﻿﻿﻿<h1 align="center">
   MuHE
 </h1>
 
@@ -10,7 +10,7 @@
 </h2>
 
 
-This paper has been submitted to the TKDE.
+This paper has been submitted to the SIGIR 2025.
 
 ## Requirements
 
